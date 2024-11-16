@@ -52,7 +52,7 @@ use an ORM and dockerize this application.
 
 5. If you're using Python 3 and the above command doesn't work, try:
    ```
-   python3 chocolate_house_app.py
+   python chocolate_house_app.py
    ```
 
 6. The application will start, and you'll see the main menu in the console.
@@ -120,4 +120,3 @@ docker build -t chocolate_house_app .
 # Run the Docker container
 docker run -it --rm chocolate_house_app
 ```
-*Note* -it tag is a must as the application is a CLI interactive application you can replace the name to your custom image name.
