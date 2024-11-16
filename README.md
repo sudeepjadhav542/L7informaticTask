@@ -1,4 +1,4 @@
-https://github.com/sudeepjadhav542/L7informaticTask.git
+
 ## Problem statement
 Create a Simple Python Application for a fictional chocolate house that uses
 SQLite to manage,
